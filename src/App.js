@@ -10,6 +10,7 @@ const LazyMenu = React.lazy(() => import("./pages/Menu"));
 const LazyReserve = React.lazy(() => import("./pages/Reserve"));
 const LazyError = React.lazy(() => import("./pages/Error"));
 
+
 function App() {
   return (
     <>

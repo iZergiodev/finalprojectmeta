@@ -6,6 +6,7 @@ const style = {
   navNonActive: "nav-font px-3 nav-item nav-link hover",
 };
 
+
 const Navbar = () => {
   return (
     <nav className="navbar navbar-expand-md navbar-light bg-light pd mb-3">

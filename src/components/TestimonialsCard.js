@@ -12,4 +12,5 @@ const TestimonialsCard = ({ data }) => {
   );
 };
 
+
 export default TestimonialsCard;

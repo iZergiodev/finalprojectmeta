@@ -17,6 +17,7 @@
   border-radius: 15px;
 }
 
+
 .card .imgBx::before {
   content: '';
   position: absolute;

@@ -14,5 +14,5 @@ const fetchAPI = function () {
   }
   return result;
 };
-
+ 
 export { fetchAPI };

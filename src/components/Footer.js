@@ -22,6 +22,7 @@ const Footer = () => {
             </Link>
             <Link className="block" to="/reserve">
               Reserve
+              
             </Link>
           </div>
           <div className="col-full col-half col-3rd mb-5 foot-center">

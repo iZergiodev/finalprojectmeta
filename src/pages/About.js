@@ -5,6 +5,7 @@ import AboutPic2 from "../images/logos/aboutus2.jpg";
 const About = () => {
   return (
     <>
+    
       <section className="container my-3">
         <div className="row justify-center">
           <div className="col-md-6 col-sm-12 align-self-start pd">

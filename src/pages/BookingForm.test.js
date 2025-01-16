@@ -6,6 +6,7 @@ describe("BookingForm", () => {
   it("should render the form and handle form submission", () => {
     render(<BookingForm />);
 
+    
     // Find form elements
     const firstNameInput = screen.getByLabelText(/first name/i);
     const lastNameInput = screen.getByLabelText(/last name/i);

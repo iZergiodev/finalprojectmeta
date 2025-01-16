@@ -2,6 +2,7 @@ import { useState, useContext } from "react";
 import AppContext from "../AppContext";
 import "./BookingForm.css";
 
+
 const validateEmail = email => {
   return String(email)
     .toLowerCase()

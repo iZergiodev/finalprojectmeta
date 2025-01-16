@@ -3,6 +3,7 @@ import Card from "../components/Card";
 
 const Menu = () => {
   return (
+    
     <>
       <section className="container my-3">
         <h1>Our Menu</h1>

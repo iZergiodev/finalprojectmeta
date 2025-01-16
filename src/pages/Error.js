@@ -1,5 +1,6 @@
 const Error = () => {
   return (
+    
     <>
       <section className="container">
         <h1>404</h1>
